@@ -1,8 +1,9 @@
 # Project Name: Simple React E-commerce App
 
-# Live Link
+# Live Link:  https://ic-e-commerce-project.netlify.app/
 
 
+![image](https://github.com/user-attachments/assets/8fab53a6-697a-42a9-89d7-72127f64f085)
 
 
 Software Requirements Specification (SRS)
